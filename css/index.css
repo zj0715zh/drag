@@ -1,0 +1,9 @@
+#box{overflow:hidden;border:solid 1px #000;position: relative;top:60px;left:30%;width: 600px;height:600px;padding:0px;background:#ededed;box-shadow:0px 0px 8px #333;}
+   #box div{height:100px;width:250px;position:absolute;}
+   #div01{background-color:blue;left:41px;top:58px;}
+   #div02{background-color:red;left:310px;top:58px;}
+   #div03{background-color:orange;left:41px;top:180px;}
+   #div04{background-color:yellow;left:310px;top:180px;}
+   #div05{background-color:green;left:41px;top:300px;}
+   #div06{background-color:#000;left:310px;top:300px;}
+   #div07{background-color:#666;left:41px;top:425px;}
